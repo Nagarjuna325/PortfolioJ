@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import pythoni from "./tech/pythoni.png";
 import Springboot from "./tech/Springboot.png";
-import Javai from "./tech/javai.png";
+import Javai from "./tech/Javai.png";
 
 
 import hephium from "./company/hephium.png";
