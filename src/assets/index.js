@@ -27,7 +27,7 @@ import Javai from "./tech/Javai.png";
 
 import hephium from "./company/hephium.png";
 import download from "./company/download.svg";
-import Deloitte from "./company/deloitte.png";
+import Deloitte from "./company/Deloitte.png";
 import Oyesters from "./company/Oyesters.jpg";
 
 import carrent from "./carrent.png";
