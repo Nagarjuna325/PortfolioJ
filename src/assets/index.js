@@ -21,7 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import pythoni from "./tech/pythoni.png";
-import Springboot from "./tech/springboot.png";
+import Springboot from "./tech/Springboot.png";
 import Javai from "./tech/javai.png";
 
 
