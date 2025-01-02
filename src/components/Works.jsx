@@ -223,9 +223,9 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { github } from "../assets";
 import lyft from "../assets/lyft.png";
-import Network from "../assets/network.jpg";
-import Machine from "../assets/machine.webp";
-import Chatbot from "../assets/chatbot.png";
+import Network from "../assets/Network.jpg";
+import Machine from "../assets/Machine.webp";
+import Chatbot from "../assets/Chatbot.png";
 
 
 // Individual Card Component
