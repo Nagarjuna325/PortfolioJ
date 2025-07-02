@@ -120,23 +120,23 @@ const experiences = [
     company_name: "Hephium LLC",
     icon: hephium,
     iconBg: "#383E56",
-    date: "Jan 2024 - Present",
+    date: "June 2024 - Oct 2024",
     points: [
-      "Developed and implemented 12+ REST APIs for real-time audit management and dynamic ticket template creation, using Java Spring Boot.",
-      "Created Spring Data MongoDB to manage database interactions and fetch data efficiently, reducing fetch time from 22.7ms to 12.2ms.",
-      "Built authentication flow and real-time chat messaging using JWT and WebSocket."
+      "Developed and implemented 12+ REST APIs for real-time audit management and dynamic ticket template creation, using Typescript and GraphQL in backend.",
+      "Utilized Redux Toolkit to manage state, aligning structure with GraphQL for seamless data retrieval, reducing fetch time from 22.7ms to 12.2ms.",
+      "Built authentication flow and real-time chat messaging using Firebase and GraphQL."
     ],
   },
-  {
-    title: "AI/ML Software Intern",
-    company_name: " BUILD SYNC",
-    icon: download,
-    iconBg: "#E6DEDD",
-    date: " Aug 2024 - Oct 2024",
-    points: [
-      "Conducted model performance analysis of SceneCraft and Text2BIM LLM based multi agent frameworks for AI agents, enabling the synthesis of 3D scene generation into Blender code for automated construction plan design based on user input measurements."
-    ],
-  },
+  // {
+  //   title: "AI/ML Software Intern",
+  //   company_name: " BUILD SYNC",
+  //   icon: download,
+  //   iconBg: "#E6DEDD",
+  //   date: " Aug 2024 - Oct 2024",
+  //   points: [
+  //     "Conducted model performance analysis of SceneCraft and Text2BIM LLM based multi agent frameworks for AI agents, enabling the synthesis of 3D scene generation into Blender code for automated construction plan design based on user input measurements."
+  //   ],
+  // },
   {
     title: " Software Developer",
     company_name: " Deloitte Consulting",
@@ -158,7 +158,7 @@ const experiences = [
     company_name: "Oyesters",
     icon: Oyesters,
     iconBg: "#E6DEDD",
-    date: "June 2020 - July 2021",
+    date: "Feb 2021 - July 2021",
     points: [
       "Developed webservices in SpringMVC and UI/UX components in ReactJs for the debt collection domain in the Revenue Service Application portal.",
       "Utilized Spring Boot to integrate API services, enabling direct SMS and email push notifications that sends summary of tax debt.",
